@@ -6,6 +6,10 @@
 - https://www.rit.edu/
 - [RIT](https://www.rit.edu/)
 
+## Images
+- https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png
+![Yuji](https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png)
+
 ## Colors
 
 - Red
