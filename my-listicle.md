@@ -3,7 +3,7 @@
 ---
 
 ## 5. **Dante**
-![Dante](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevilmaycry.fandom.com%2Fwiki%2FDante&psig=AOvVaw2a2a6XCpuPjVtzeSYglbyY&ust=1724908066163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjv0rv1logDFQAAAAAdAAAAABAI)
+![Dante](https://i.redd.it/j1v2si14qz7b1.jpg)
 
 ## 4. **Raiden/Jack**
 ![Raiden](https://upload.wikimedia.org/wikipedia/en/8/8e/Raiden_Metal_Gear_Rising.webp)
