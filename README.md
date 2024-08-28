@@ -10,6 +10,7 @@
 - https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png
 ![Yuji](https://upload.wikimedia.org/wikipedia/en/2/27/Yuji_Itadori.png)
 
+![Dog](md.images/cassie.jpeg)
 ## Colors
 
 - Red
